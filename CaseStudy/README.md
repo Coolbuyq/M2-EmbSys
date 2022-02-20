@@ -5,4 +5,17 @@ Now keys can easily be copied and made by theif’s who know about it. Also the 
 
 ![Bank locker](https://user-images.githubusercontent.com/86889916/154839145-335d85f7-8ef8-4be6-8238-a04838ce4649.png)
 
+# Requirnments
+## High Level Requirnments
+1) Power Supply to the Microcontroller and Sensors.
+2) Switches to turn ON/OFF the system.
+
+
+## Low Level Requirnments
+1) Sensor should detect fingerprint proprly.
+2) Buttons should operate properly.
+3) Lcd Display Should display command properly.
+4) Buzzer should beep on time.
+5) 
+
 
