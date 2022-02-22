@@ -27,9 +27,14 @@ For this the user vehicle is fixed with an RF transmitter circuit that has a vib
 
 # Requirements
 ## High Level Requirements
-Proper Power Supply to the Microcontroller and Sensors.
-GSM and GPS modem should be work properly.
-Display ought to display all commands properly
+1) Proper Power Supply to the Microcontroller and Sensors.
+2) GSM and GPS modem should be work properly.
+3) Display ought to display all commands properly.
+
+## Low Level Requirnments
+1) Proper location should be reach to person.
+2) Buzzer should be beep on time.
+3) 
 
 
 
