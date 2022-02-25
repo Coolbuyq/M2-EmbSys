@@ -28,6 +28,11 @@ The Project is an  smart blind stick . Traditionally visually impaired people us
 | -------- | -------------- | ---- | -------- | -------------- |
 | H3L1 | According to Threeshold value set in water sensor system shall beep buzzer when water comes in front of blind person|  | H4L1 | switch button shall swtich ON/OFF system whenever needed  |
 
+# Flowchart
+---
+![flochart2](https://user-images.githubusercontent.com/86889916/155742310-230b9c26-2e39-4691-8112-7bc930f4c08f.png)
+
+
 # Block Diagram and Blocks explaination 
 ---
 ![Smart blind stick 1](https://user-images.githubusercontent.com/86889916/155707909-2fe9a051-3c1c-428c-b059-1ac7f855e2f4.png)
