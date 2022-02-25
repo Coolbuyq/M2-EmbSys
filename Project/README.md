@@ -29,6 +29,7 @@ The Project is an  smart blind stick . Traditionally visually impaired people us
 | H3L1 | According to Threeshold value set in water sensor system shall beep buzzer when water comes in front of blind person|  | H4L1 | switch button shall swtich ON/OFF system whenever needed  |
 
 # Block Diagram and Blocks explaination 
+---
 ![Smart blind stick 1](https://user-images.githubusercontent.com/86889916/155707909-2fe9a051-3c1c-428c-b059-1ac7f855e2f4.png)
 
 ## SENSORS
@@ -53,7 +54,7 @@ This switch button uses for to ON/OFF the power supply(mainly 5V battery) to pre
  This is the brain of the system here we use Atmega328 every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to Fan and Stepper motor.
  
 ## APPLICATION
---
+---
 Help blind people to easily walk to destination.
 
 Help blind people to obstacle detection.
