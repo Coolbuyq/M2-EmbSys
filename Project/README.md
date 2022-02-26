@@ -17,7 +17,7 @@
     
     2.2 Low level requirements
     
-3. Block Diagram and Blocks explination
+3. Block Diagram and Blocks explaination
 
     3.1 Block Diagram
     
