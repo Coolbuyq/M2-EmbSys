@@ -58,7 +58,7 @@ The Project is an  smart blind stick . Traditionally visually impaired people us
   * Further enhancement can sovle all probems of blind person
   *  Secure the blind person from any accident
   
-## 1.4 5W's & 1H
+## 1.4 5W's & 1H & S.W.O.T Analysis
 
  ### WHAT
  * Smart blind stick
@@ -72,6 +72,10 @@ The Project is an  smart blind stick . Traditionally visually impaired people us
  * To help blind peoples and prevent there life from accident
  ### HOW
  * When there is obstacles or when blind person are about to go in dark area the system will notify blind person by beeping buzzer
+ 
+ ## S.W.O.T Analysis
+ ![Screenshot (332)](https://user-images.githubusercontent.com/86889916/155831454-e81f40e1-9f2e-4f88-8a71-899120d26b58.png)
+
  
 # 2. Requirements
 
