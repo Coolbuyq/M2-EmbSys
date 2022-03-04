@@ -16,7 +16,11 @@ Now keys can easily be copied and made by theif’s who know about it. Also the 
 2) Buttons should operate properly.
 3) Lcd Display Should display command properly.
 4) Buzzer should beep on time.
-5) 
+
+# Application
+1) It is used in banks to protect money and documents
+2) it is used in homes to protect money and documents
+3) it is used in government offices also
 
 # CaseStudy 2
 ## Accident Identification and alerting System
@@ -34,7 +38,11 @@ For this the user vehicle is fixed with an RF transmitter circuit that has a vib
 ## Low Level Requirnments
 1) Proper location should be reach to person.
 2) Buzzer should be beep on time.
-3) 
+
+# Application
+1) It is used in all vehicles to protect the vehicle driver
+2) Its also used to reach out at spot by GSM to help the person
+3) it is also used in idustry
 
 
 
