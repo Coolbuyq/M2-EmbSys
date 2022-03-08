@@ -1,9 +1,9 @@
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(12,11,5,4,3,2);
 const int speaker = 13;
-const int ldrPin = A0; 
-const int waterSens = A1;//define water sensor to pin AO 
-const int motor = 8;//define speaker to pin 8 
+const int ldrPin = A0; //define ldr sensor to pin A0
+const int waterSens = A1;//define water sensor to pin A1 
+const int motor = 8;//define vibration motor to pin 8 
 int SensorValue;//create sensor data variable 
 int const trigPin = 10; 
 int const echoPin = 9;
@@ -21,7 +21,7 @@ pinMode(speaker, OUTPUT);
 
 pinMode(ldrPin, INPUT);
 
-pinMode(motor, OUTPUT);//set speaker as an output 
+pinMode(motor, OUTPUT);//set Vibration motor as an output 
 pinMode(waterSens, INPUT); //set water sensor as an input
 
 
