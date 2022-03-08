@@ -31,7 +31,7 @@ The Project is an  smart blind stick . Traditionally visually impaired people us
  * When there is obstacles or when blind person are about to go in dark area the system will notify blind person by beeping buzzer
  
  ## S.W.O.T Analysis
- ![Screenshot (332)](https://user-images.githubusercontent.com/86889916/155831454-e81f40e1-9f2e-4f88-8a71-899120d26b58.png)
+ ![Swot analysis](https://user-images.githubusercontent.com/86889916/155831454-e81f40e1-9f2e-4f88-8a71-899120d26b58.png)
 
  
 #  Requirements
