@@ -32,4 +32,8 @@ This switch button uses for to ON/OFF the power supply(mainly 5V battery) to pre
  
  ## 2.2 Structural Diagram
  ![structural diagram](https://user-images.githubusercontent.com/86889916/157058695-2675a975-8a5c-48e6-92bd-6150e706aea2.png)
+ 
+ ## 2.3 Circuit Diagram
+ ![Simulation file](https://user-images.githubusercontent.com/86889916/157294678-ca5b0212-7ec8-401c-85b0-e24567dceac6.png)
+
 
